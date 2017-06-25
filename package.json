@@ -2,7 +2,7 @@
   "name": "chemsoln",
   "version": "0.0.1",
   "private": true,
-  "homepage" : "http://padster.github.io/chemsoln"
+  "homepage" : "http://padster.github.io/chemsoln/",
   "devDependencies": {
     "react-scripts": "1.0.7"
   },
